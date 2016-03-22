@@ -6,5 +6,5 @@ This is a repo for an installation of galaxy without any of the default tools pr
 To install run:
 
 .. code:: console
-    git clone https://github.com/suledev/galaxy
-    sh run.sh
+    $ git clone https://github.com/suledev/galaxy
+    $ sh run.sh
