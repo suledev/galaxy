@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a2083b8-5eab-4471-b028-c719331d1f8e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/migrate_tools/0000_tools.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0001_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0002_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0003_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0004_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0005_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0006_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0007_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0008_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0009_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0010_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0011_tools.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tool_shed/galaxy_install/migrate/versions/0012_tools.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/tool_conf.xml.main" afterPath="$PROJECT_DIR$/config/tool_conf.xml.main" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/tool_conf.xml.sample" afterPath="$PROJECT_DIR$/config/tool_conf.xml.sample" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/tool_sheds_conf.xml.sample" afterPath="$PROJECT_DIR$/config/tool_sheds_conf.xml.sample" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rst" afterPath="$PROJECT_DIR$/README.rst" />
     </list>
     <ignored path="galaxy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,11 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0000_tools.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0000_tools.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/migrate_tools/0000_tools.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.084033616">
+            <state vertical-scroll-proportion="-1.25">
               <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38135594">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -106,6 +102,7 @@
         <option value="$PROJECT_DIR$/config/tool_conf.xml.sample" />
         <option value="$PROJECT_DIR$/config/tool_conf.xml.main" />
         <option value="$PROJECT_DIR$/scripts/migrate_tools/0000_tools.xml" />
+        <option value="$PROJECT_DIR$/README.rst" />
       </list>
     </option>
   </component>
@@ -115,8 +112,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="55" />
+    <option name="x" value="93" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="699" />
   </component>
@@ -225,24 +222,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="galaxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="galaxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrate_tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -511,15 +490,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="55" width="1260" height="699" extended-state="0" />
-    <editor active="true" />
+    <frame x="93" y="23" width="1260" height="699" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25779969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -705,8 +684,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/migrate_tools/0000_tools.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.084033616">
+        <state vertical-scroll-proportion="-1.25">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38135594">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
