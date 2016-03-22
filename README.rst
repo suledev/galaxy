@@ -9,3 +9,8 @@ To install run:
 
     $ git clone https://github.com/suledev/galaxy
     $ sh run.sh
+
+Once Galaxy completes startup, you should be able to view Galaxy in your
+browser at:
+
+http://localhost:8080
